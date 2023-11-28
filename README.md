@@ -30,5 +30,4 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 ## Acknowledgments
 - Google Data Analytics Professional Certificate program on Coursera.
 
-## Contact
-For any inquiries or contributions, please contact Badis HANNACHI at badis.hannachi@yahoo.com
+
